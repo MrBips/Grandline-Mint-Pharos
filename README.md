@@ -1,4 +1,4 @@
-# mint-nft
+# Mint-Nft-Pharos
 
 A script to automatically mint FaroSwap NFTs on the Pharos testnet using multiple wallets.
 
